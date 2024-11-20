@@ -1,4 +1,4 @@
-
+# About Me
 Hi, I'm Shadrack! I have an analytical background in Industrial Chemistry, I am on track to completing my certification in Data Analysis with Python. I have developed passion in using data to uncover meaningful insights. I am excited to bring my technical and anaytical skills to the field of data science as an entry-level data analyst.
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I have also gained experience in laboratory techniques, data management, and analysis. These I believe will be valuable assets in my role as a data analyst.
